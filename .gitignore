@@ -1,0 +1,22 @@
+﻿# Cau hinh that chua mat khau
+/config/database.properties
+.env
+.env.*
+
+# Ket qua build
+/target/
+/out/
+*.class
+*.log
+
+# Cau hinh IDE tren tung may
+/.vscode/
+/.idea/
+*.iml
+
+# File he thong
+Thumbs.db
+.DS_Store
+
+# Ghi nho lam viec ca nhan
+/Ghi_nho_tien_do_*.md

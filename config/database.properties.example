@@ -1,0 +1,3 @@
+db.url=jdbc:postgresql://localhost:5432/movie_management
+db.username=YOUR_DATABASE_USER
+db.password=YOUR_DATABASE_PASSWORD
